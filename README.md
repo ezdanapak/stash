@@ -1,6 +1,6 @@
 # stash — ჩემი საცავი
 
-ბმულები, ჯგუფები და საინტერესო მასალები ერთ ადგილას. მასალა `docs/`-შია, საიტი კი [MkDocs Material](https://squidfunk.github.io/mkdocs-material/)-ით იწყობა.
+ბმულები, ჯგუფები და საინტერესო მასალები ერთ ადგილას. საიტი: <https://ezdanapak.github.io/stash/> მასალა `docs/`-შია, საიტი კი [MkDocs Material](https://squidfunk.github.io/mkdocs-material/)-ით იწყობა.
 
 ## სად რა არის
 
