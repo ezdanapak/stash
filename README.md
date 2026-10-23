@@ -13,6 +13,8 @@
 
 ## მასალები
 
+- [AI ინსტრუმენტები — კრებული](ai/ai-tools.md) — ჩატ-ასისტენტები, უფასო ხელსაწყოები, 50 AI ინსტრუმენტი კატეგორიებად, სასწავლო რესურსები ([წყარო: GIS GEORGIA](https://sites.google.com/view/gisgeo/%E1%83%A4%E1%83%90%E1%83%98%E1%83%9A%E1%83%94%E1%83%91%E1%83%98/ai))
+
 - [40 უფასო რეპო Claude-ისთვის](ai/claude-40-repos.md) — გზამკვლევი, ხუთ ჯგუფად ([წყარო: Google Doc](https://docs.google.com/document/d/1Ug2RKhx5uETIOuoBZBX80upZTFZ-k6mRseXOvp0jRdI/edit))
 
 ## როგორ ვამატებ

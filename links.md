@@ -7,8 +7,11 @@
 - [Claude Plugins Official](https://github.com/anthropics/claude-plugins-official) — Anthropic-ის ოფიციალური პლაგინების კატალოგი #claude
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) — MCP-სერვერების დიდი სია ([ვებ-ვერსია](https://glama.ai/mcp/servers)) #mcp
 - სრული სია → [ai/claude-40-repos.md](ai/claude-40-repos.md)
+- AI ინსტრუმენტების კრებული → [ai/ai-tools.md](ai/ai-tools.md)
 
 ## GIS / QGIS
+
+- [GIS GEORGIA](https://sites.google.com/view/gisgeo) — ქართული GIS საიტი, ფაილები და მასალები #gis
 
 ## OSINT / GEOINT
 
