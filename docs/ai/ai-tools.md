@@ -1,19 +1,13 @@
+---
+tags:
+  - ai
+  - ინსტრუმენტები
+---
+
 # AI ინსტრუმენტები — კრებული
 
-> წყარო: [GIS GEORGIA → ფაილები → AI](https://sites.google.com/view/gisgeo/%E1%83%A4%E1%83%90%E1%83%98%E1%83%9A%E1%83%94%E1%83%91%E1%83%98/ai) · შენახულია: 2026-10-23
-
-## სარჩევი
-
-1. [მთავარი ჩატ-ასისტენტები](#1--მთავარი-ჩატ-ასისტენტები)
-2. [რომელი რისთვის](#2--რომელი-რისთვის)
-3. [უფასო ინსტრუმენტები](#3--უფასო-ინსტრუმენტები)
-4. [5 უნარი, რომელიც ღირს ისწავლო](#4--5-უნარი-რომელიც-ღირს-ისწავლო)
-5. [50 AI ინსტრუმენტი](#5--50-ai-ინსტრუმენტი)
-6. [TOP 10](#6--top-10)
-7. [10 AI გადაწყვეტა ყოველდღიური პრობლემებისთვის](#7--10-ai-გადაწყვეტა-ყოველდღიური-პრობლემებისთვის)
-8. [სასწავლო რესურსები](#8--სასწავლო-რესურსები)
-
----
+!!! info "წყარო"
+    [GIS GEORGIA → ფაილები → AI](https://sites.google.com/view/gisgeo/%E1%83%A4%E1%83%90%E1%83%98%E1%83%9A%E1%83%94%E1%83%91%E1%83%98/ai) · შენახულია: 2026-10-23
 
 ## 1 · მთავარი ჩატ-ასისტენტები
 
@@ -75,7 +69,8 @@
 | Gumroad | უფასო |
 | [Discord](https://discord.com/) | უფასო |
 
-*(სიას ორიგინალში ბოლოს „Start Your Busine…“ ეწერა, ანუ წინადადება ბოლომდე არ იყო დაწერილი.)*
+!!! note ""
+    სიას ორიგინალში ბოლოს „Start Your Busine…“ ეწერა, ანუ წინადადება ბოლომდე არ იყო დაწერილი.
 
 ---
 
@@ -105,90 +100,90 @@
 
 ## 5 · 50 AI ინსტრუმენტი
 
-### ტექსტი და ჩატი
+=== "ტექსტი და ჩატი"
 
-| № | ინსტრუმენტი | რისთვის |
-| :-: | --- | --- |
-| 1 | [ChatGPT.com](https://chatgpt.com/) | თითქმის ყველაფრისთვის |
-| 19 | [Claude.ai](https://claude.ai/) | ChatGPT-ს ალტერნატივა |
-| 20 | [Notion.ai](https://notion.ai/) | ტექსტების, იდეების გენერირება |
-| 22 | [Perplexity.ai](https://perplexity.ai/) | პასუხები წყაროებით |
-| 36 | [Wordtune.com](https://wordtune.com/) | ტექსტის დახვეწა და რედაქტირება |
-| 37 | [Jasper.ai](https://jasper.ai/) | მარკეტინგული ტექსტების გენერირება |
-| 38 | [Copy.ai](https://copy.ai/) | კოპირაიტინგი წამებში |
-| 41 | [Cohesive.so](https://cohesive.so/) | ტექსტების გენერირება + რედაქტირება |
-| 42 | [Quillbot.com](https://quillbot.com/) | ტექსტის გადამუშავება და პლაგიატის მოცილება |
-| 43 | [Scispace.com](https://scispace.com/) | სამეცნიერო კვლევის AI ძებნა |
+    | № | ინსტრუმენტი | რისთვის |
+    | :-: | --- | --- |
+    | 1 | [ChatGPT.com](https://chatgpt.com/) | თითქმის ყველაფრისთვის |
+    | 19 | [Claude.ai](https://claude.ai/) | ChatGPT-ს ალტერნატივა |
+    | 20 | [Notion.ai](https://notion.ai/) | ტექსტების, იდეების გენერირება |
+    | 22 | [Perplexity.ai](https://perplexity.ai/) | პასუხები წყაროებით |
+    | 36 | [Wordtune.com](https://wordtune.com/) | ტექსტის დახვეწა და რედაქტირება |
+    | 37 | [Jasper.ai](https://jasper.ai/) | მარკეტინგული ტექსტების გენერირება |
+    | 38 | [Copy.ai](https://copy.ai/) | კოპირაიტინგი წამებში |
+    | 41 | [Cohesive.so](https://cohesive.so/) | ტექსტების გენერირება + რედაქტირება |
+    | 42 | [Quillbot.com](https://quillbot.com/) | ტექსტის გადამუშავება და პლაგიატის მოცილება |
+    | 43 | [Scispace.com](https://scispace.com/) | სამეცნიერო კვლევის AI ძებნა |
 
-### ვიდეო
+=== "ვიდეო"
 
-| № | ინსტრუმენტი | რისთვის |
-| :-: | --- | --- |
-| 5 | [Synthesia.io](https://synthesia.io/) | ვიდეოების შექმნა |
-| 7 | [Fliki.ai](https://fliki.ai/) | ტექსტით ქმნის ვიდეოს |
-| 11 | [Pictory.ai](https://pictory.ai/) | ვიდეოების რედაქტირება |
-| 13 | [RunwayML.com](https://runwayml.com/) | ვიდეო მონტაჟი + AI ეფექტები |
-| 23 | [HeyGen.com](https://heygen.com/) | AI ვიდეო ავატარები |
-| 25 | [Opus.pro](https://opus.pro/) | დიდი ვიდეოს დაჭრა TikTok/Reels-ებისთვის |
-| 27 | [Lumen5.com](https://lumen5.com/) | ტექსტიდან ვიდეო |
-| 28 | [Descript.com](https://descript.com/) | ვიდეო და აუდიო რედაქტირება ტექსტით |
-| 30 | [Veed.io](https://veed.io/) | ვიდეო რედაქტორი ბრაუზერში |
+    | № | ინსტრუმენტი | რისთვის |
+    | :-: | --- | --- |
+    | 5 | [Synthesia.io](https://synthesia.io/) | ვიდეოების შექმნა |
+    | 7 | [Fliki.ai](https://fliki.ai/) | ტექსტით ქმნის ვიდეოს |
+    | 11 | [Pictory.ai](https://pictory.ai/) | ვიდეოების რედაქტირება |
+    | 13 | [RunwayML.com](https://runwayml.com/) | ვიდეო მონტაჟი + AI ეფექტები |
+    | 23 | [HeyGen.com](https://heygen.com/) | AI ვიდეო ავატარები |
+    | 25 | [Opus.pro](https://opus.pro/) | დიდი ვიდეოს დაჭრა TikTok/Reels-ებისთვის |
+    | 27 | [Lumen5.com](https://lumen5.com/) | ტექსტიდან ვიდეო |
+    | 28 | [Descript.com](https://descript.com/) | ვიდეო და აუდიო რედაქტირება ტექსტით |
+    | 30 | [Veed.io](https://veed.io/) | ვიდეო რედაქტორი ბრაუზერში |
 
-### აუდიო და ხმა
+=== "აუდიო და ხმა"
 
-| № | ინსტრუმენტი | რისთვის |
-| :-: | --- | --- |
-| 2 | [RecCloud.com](https://reccloud.com/) | speech to text |
-| 6 | [Soundraw.io](https://soundraw.io/) | მუსიკის შექმნა |
-| 14 | [ElevenLabs.io](https://elevenlabs.io/) | რეალისტური ხმები |
-| 17 | [Fireflies.ai](https://fireflies.ai/) | შეხვედრების ჩანაწერი + ტრანსკრიპცია |
-| 18 | [Murf.ai](https://murf.ai/) | ტექსტიდან ხმა (voice-over) |
-| 29 | [Krisp.ai](https://krisp.ai/) | ხმაურის მოცილება ზარებიდან |
-| 31 | [Typecast.ai](https://typecast.ai/) | რეალისტური ხმა და ავატარი |
+    | № | ინსტრუმენტი | რისთვის |
+    | :-: | --- | --- |
+    | 2 | [RecCloud.com](https://reccloud.com/) | speech to text |
+    | 6 | [Soundraw.io](https://soundraw.io/) | მუსიკის შექმნა |
+    | 14 | [ElevenLabs.io](https://elevenlabs.io/) | რეალისტური ხმები |
+    | 17 | [Fireflies.ai](https://fireflies.ai/) | შეხვედრების ჩანაწერი + ტრანსკრიპცია |
+    | 18 | [Murf.ai](https://murf.ai/) | ტექსტიდან ხმა (voice-over) |
+    | 29 | [Krisp.ai](https://krisp.ai/) | ხმაურის მოცილება ზარებიდან |
+    | 31 | [Typecast.ai](https://typecast.ai/) | რეალისტური ხმა და ავატარი |
 
-### სურათი და დიზაინი
+=== "სურათი და დიზაინი"
 
-| № | ინსტრუმენტი | რისთვის |
-| :-: | --- | --- |
-| 3 | [MidJourney.com](https://midjourney.com/) | არტის გენერირება |
-| 8 | [Starry.ai](https://starry.ai/) | ავატარის შექმნა |
-| 10 | [PicWish.com](https://picwish.com/) | ფოტოს რედაქტირება |
-| 12 | [Relume.io](https://relume.io/) | ვებსაიტის დიზაინები |
-| 16 | [Leonardo.ai](https://leonardo.ai/) | გრაფიკული დიზაინი |
-| 32 | [Illustroke.com](https://illustroke.com/) | ტექსტიდან ილუსტრაციები |
-| 33 | [Magician.design](https://magician.design/) | AI პლაგინი Figma-სთვის |
-| 34 | [Cleanup.pictures](https://cleanup.pictures/) | ზედმეტი ობიექტის მოცილება ფოტოდან |
-| 35 | [Stockimg.ai](https://stockimg.ai/) | სტოკ სურათების გენერირება |
+    | № | ინსტრუმენტი | რისთვის |
+    | :-: | --- | --- |
+    | 3 | [MidJourney.com](https://midjourney.com/) | არტის გენერირება |
+    | 8 | [Starry.ai](https://starry.ai/) | ავატარის შექმნა |
+    | 10 | [PicWish.com](https://picwish.com/) | ფოტოს რედაქტირება |
+    | 12 | [Relume.io](https://relume.io/) | ვებსაიტის დიზაინები |
+    | 16 | [Leonardo.ai](https://leonardo.ai/) | გრაფიკული დიზაინი |
+    | 32 | [Illustroke.com](https://illustroke.com/) | ტექსტიდან ილუსტრაციები |
+    | 33 | [Magician.design](https://magician.design/) | AI პლაგინი Figma-სთვის |
+    | 34 | [Cleanup.pictures](https://cleanup.pictures/) | ზედმეტი ობიექტის მოცილება ფოტოდან |
+    | 35 | [Stockimg.ai](https://stockimg.ai/) | სტოკ სურათების გენერირება |
 
-### პრეზენტაციები და საიტები
+=== "პრეზენტაციები და საიტები"
 
-| № | ინსტრუმენტი | რისთვის |
-| :-: | --- | --- |
-| 9 | [SlidesAI.io](https://slidesai.io/) | პრეზენტაციების გენერირება |
-| 15 | [Gamma.app](https://gamma.app/) | პრეზენტაციები და დოკუმენტები |
-| 21 | [Durable.co](https://durable.co/) | ვებსაიტის გენერირება 1 წუთში |
-| 24 | [Tome.app](https://tome.app/) | პრეზენტაციების გენერირება სლაიდებად |
-| 26 | [Beautiful.ai](https://beautiful.ai/) | პროფესიონალური პრეზენტაციები |
+    | № | ინსტრუმენტი | რისთვის |
+    | :-: | --- | --- |
+    | 9 | [SlidesAI.io](https://slidesai.io/) | პრეზენტაციების გენერირება |
+    | 15 | [Gamma.app](https://gamma.app/) | პრეზენტაციები და დოკუმენტები |
+    | 21 | [Durable.co](https://durable.co/) | ვებსაიტის გენერირება 1 წუთში |
+    | 24 | [Tome.app](https://tome.app/) | პრეზენტაციების გენერირება სლაიდებად |
+    | 26 | [Beautiful.ai](https://beautiful.ai/) | პროფესიონალური პრეზენტაციები |
 
-### კოდი, ავტომატიზაცია, სოც. მედია
+=== "კოდი, ავტომატიზაცია, სოც. მედია"
 
-| № | ინსტრუმენტი | რისთვის |
-| :-: | --- | --- |
-| 4 | [Replit.com](https://replit.com/) | კოდის წერა |
-| 39 | [Ocoya.com](https://ocoya.com/) | სოციალური მედიის პოსტების გენერირება |
-| 40 | [Predis.ai](https://predis.ai/) | სოციალური მედიის დიზაინები და ტექსტები |
-| 44 | [Browse.ai](https://browse.ai/) | ვებსაიტებიდან მონაცემების ამოღება |
-| 45 | [Bardeen.ai](https://bardeen.ai/) | ავტომატიზაცია და workflow-ების შექმნა |
-| 46 | [Axiom.ai](https://axiom.ai/) | ბრაუზერის ავტომატიზაცია |
+    | № | ინსტრუმენტი | რისთვის |
+    | :-: | --- | --- |
+    | 4 | [Replit.com](https://replit.com/) | კოდის წერა |
+    | 39 | [Ocoya.com](https://ocoya.com/) | სოციალური მედიის პოსტების გენერირება |
+    | 40 | [Predis.ai](https://predis.ai/) | სოციალური მედიის დიზაინები და ტექსტები |
+    | 44 | [Browse.ai](https://browse.ai/) | ვებსაიტებიდან მონაცემების ამოღება |
+    | 45 | [Bardeen.ai](https://bardeen.ai/) | ავტომატიზაცია და workflow-ების შექმნა |
+    | 46 | [Axiom.ai](https://axiom.ai/) | ბრაუზერის ავტომატიზაცია |
 
-### კატალოგები და პრომპტები
+=== "კატალოგები და პრომპტები"
 
-| № | ინსტრუმენტი | რისთვის |
-| :-: | --- | --- |
-| 47 | [Futuretools.io](https://futuretools.io/) | AI ინსტრუმენტების კატალოგი |
-| 48 | [There's An AI For That](https://theresanaiforthat.com/) | AI ბაზა თითქმის ყველაფერზე |
-| 49 | [Snackprompt.com](https://snackprompt.com/) | ChatGPT პრომპტების ბიბლიოთეკა |
-| 50 | [PromptHero.com](https://prompthero.com/) | MidJourney/DALL·E პრომპტების გალერეა |
+    | № | ინსტრუმენტი | რისთვის |
+    | :-: | --- | --- |
+    | 47 | [Futuretools.io](https://futuretools.io/) | AI ინსტრუმენტების კატალოგი |
+    | 48 | [There's An AI For That](https://theresanaiforthat.com/) | AI ბაზა თითქმის ყველაფერზე |
+    | 49 | [Snackprompt.com](https://snackprompt.com/) | ChatGPT პრომპტების ბიბლიოთეკა |
+    | 50 | [PromptHero.com](https://prompthero.com/) | MidJourney/DALL·E პრომპტების გალერეა |
 
 ---
 

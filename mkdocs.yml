@@ -1,0 +1,87 @@
+site_name: stash
+site_description: ბმულები, ჯგუფები, საინტერესო მასალები — ერთ ადგილას
+repo_url: https://github.com/ezdanapak/stash
+repo_name: ezdanapak/stash
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: ka
+  font:
+    text: Noto Sans Georgian
+    code: JetBrains Mono
+  icon:
+    logo: material/archive-outline
+    repo: fontawesome/brands/github
+  favicon: assets/favicon.svg
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: მუქი თემა
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: ღია თემა
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.tabs.link
+    - content.action.edit
+
+plugins:
+  - search:
+      lang: en
+      separator: '[\s\-\.,·—–:;!?()\[\]„“"]+'
+  - tags
+
+extra_css:
+  - assets/extra.css
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - md_in_html
+  - admonition
+  - footnotes
+  - def_list
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+
+nav:
+  - მთავარი: index.md
+  - AI:
+      - 40 რეპო Claude-ისთვის: ai/claude-40-repos.md
+      - AI ინსტრუმენტები: ai/ai-tools.md
+  - პრომპტები:
+      - ქართული ენის რედაქტორი: ai/prompts/georgian-editor.md
+  - ბმულები: links.md
+  - ჯგუფები: groups.md
+  - Inbox: inbox.md
+  - თეგები: tags.md
