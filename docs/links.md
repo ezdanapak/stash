@@ -13,6 +13,7 @@ tags:
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) — MCP-სერვერების დიდი სია ([ვებ-ვერსია](https://glama.ai/mcp/servers)) #mcp
 - სრული სია → [ai/claude-40-repos.md](ai/claude-40-repos.md)
 - AI ინსტრუმენტების კრებული → [ai/ai-tools.md](ai/ai-tools.md)
+- [Security Audit Skill](https://github.com/cloudflare/security-audit-skill) — Cloudflare-ის სქილი კოდის უსაფრთხოების აუდიტისთვის, დაწვრილებით → [ai/security-audit-skill.md](ai/security-audit-skill.md) #claude #უსაფრთხოება
 
 ## GIS / QGIS
 

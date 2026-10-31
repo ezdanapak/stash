@@ -32,6 +32,14 @@ hide:
 
     [:octicons-arrow-right-24: გახსნა](ai/ai-tools.md)
 
+-   :material-shield-search:{ .lg .middle } **Security Audit Skill**
+
+    ---
+
+    Cloudflare-ის სქილი: აგენტი კოდში ნამდვილ მოწყვლადობებს ეძებს და თითოეულს დამოუკიდებლად ამოწმებს.
+
+    [:octicons-arrow-right-24: გახსნა](ai/security-audit-skill.md)
+
 -   :material-text-box-edit-outline:{ .lg .middle } **ქართული ენის რედაქტორი**
 
     ---
