@@ -33,6 +33,9 @@ npx skills add https://github.com/cloudflare/security-audit-skill --skill securi
 
 სჭირდება: Node.js (ვალიდატორებისთვის) და აგენტი, რომელიც პარალელურ ქვე-აგენტებს უშვებს.
 
+!!! success "ჩემთან დაყენებულია"
+    2026-10-31-დან გლობალურად: `~/.claude/skills/security-audit`. განახლება: `npx skills update -g`
+
 ## გამოყენება
 
 აგენტი გაუშვი იმ პროექტში, რომლის შემოწმებაც გინდა, და უბრალოდ სთხოვე:
