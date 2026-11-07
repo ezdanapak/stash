@@ -27,6 +27,14 @@ tags:
 
 - [GetClip](https://getclip.cc/ka/) — ვიდეოს გადმოწერა YouTube-იდან, TikTok-იდან, Instagram-იდან, Facebook-იდან, X-იდან, Twitch-იდან და სხვა საიტებიდან: HD, 4K და MP3, უფასოდ და რეგისტრაციის გარეშე #ვიდეო #გადმოწერა
 
+## წიგნები / ბიბლიოთეკები
+
+- [Anna's Archive](https://annas-archive.is/) — წიგნების, სახელმძღვანელოებისა და სამეცნიერო სტატიების საძიებო კატალოგი; „ჩრდილოვანი ბიბლიოთეკების“ (LibGen, Z-Library, Sci-Hub და სხვ.) აგრეგატორი #წიგნები #pdf
+- [Shadow Libraries → Anna's Archive](https://shadowlibraries.github.io/DirectDownloads/AnnasArchive/) — გზამკვლევი Anna's Archive-ზე: მოქმედი მისამართები (mirror-ები) და პირდაპირი გადმოწერის ინსტრუქცია #წიგნები
+
+!!! warning "დომენები ხშირად იცვლება"
+    Anna's Archive-ის მისამართი პერიოდულად იცვლება და ყალბი ასლებიც არსებობს. თუ ბმული არ მუშაობს ან საეჭვოდ გამოიყურება, მოქმედი მისამართი Shadow Libraries-ის გვერდზე გადაამოწმე. არაფერი გადმოწერო, რაც `.exe` ან სხვა პროგრამაა.
+
 ## Linux
 
 ## სხვა
