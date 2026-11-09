@@ -18,6 +18,7 @@ tags:
 ## GIS / QGIS
 
 - [GIS GEORGIA](https://sites.google.com/view/gisgeo) — ქართული GIS საიტი, ფაილები და მასალები #gis
+- [Worldview](https://chromewebstore.google.com/detail/worldview/aflbpeobpgdpibcfhkkjhaonbbpkmefg) — Chrome-ის გაფართოება Esri UK-სგან: ყოველ ახალ ჩანართზე მსოფლიოს ლამაზი ადგილის სატელიტურ სურათს აჩვენებს #gis #სატელიტი #chrome
 
 ## OSINT / GEOINT
 
