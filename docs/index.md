@@ -40,6 +40,14 @@ hide:
 
     [:octicons-arrow-right-24: გახსნა](ai/security-audit-skill.md)
 
+-   :material-console:{ .lg .middle } **Claude Code-ის 15 ბრძანება**
+
+    ---
+
+    /btw, /fork, /context, /effort, /code-review და სხვა: რა აკეთებს თითოეული.
+
+    [:octicons-arrow-right-24: გახსნა](ai/claude-code-commands.md)
+
 -   :material-text-box-edit-outline:{ .lg .middle } **ქართული ენის რედაქტორი**
 
     ---
