@@ -19,6 +19,7 @@ tags:
 
 - [GIS GEORGIA](https://sites.google.com/view/gisgeo) — ქართული GIS საიტი, ფაილები და მასალები #gis
 - [Worldview](https://chromewebstore.google.com/detail/worldview/aflbpeobpgdpibcfhkkjhaonbbpkmefg) — Chrome-ის გაფართოება Esri UK-სგან: ყოველ ახალ ჩანართზე მსოფლიოს ლამაზი ადგილის სატელიტურ სურათს აჩვენებს #gis #სატელიტი #chrome
+- [QGIS.GE Launcher](https://chromewebstore.google.com/detail/qgisge-launcher-%E2%80%94-quick-l/jgkiimlahompefhiafnopccehdbmcego) — Chrome-ის გაფართოება: qgis.ge-ის საიტები და GitHub-ის რეპოები ერთი დაჭერით, ხელსაწყოთა ზოლიდან; სია რედაქტირებადია, თვალთვალის გარეშე ([GitHub](https://github.com/GIS-GEORGIA/qgis-ge-launcher)) #gis #qgis #chrome
 
 ## OSINT / GEOINT
 
@@ -35,6 +36,10 @@ tags:
 
 !!! warning "დომენები ხშირად იცვლება"
     Anna's Archive-ის მისამართი პერიოდულად იცვლება და ყალბი ასლებიც არსებობს. თუ ბმული არ მუშაობს ან საეჭვოდ გამოიყურება, მოქმედი მისამართი Shadow Libraries-ის გვერდზე გადაამოწმე. არაფერი გადმოწერო, რაც `.exe` ან სხვა პროგრამაა.
+
+## უსაფრთხოება / პაროლები
+
+- [Bitwarden](https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb) — ღია კოდის პაროლების მენეჯერი: ძლიერი პაროლების გენერაცია, დაშიფრული საცავი, სინქრონიზაცია ყველა მოწყობილობაზე, passkey-ები და 2FA; პირადი გამოყენებისთვის უფასოა ([bitwarden.com](https://bitwarden.com/)) #უსაფრთხოება #პაროლები #chrome
 
 ## Linux
 
