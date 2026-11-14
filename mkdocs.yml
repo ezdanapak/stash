@@ -81,6 +81,7 @@ nav:
       - 40 რეპო Claude-ისთვის: ai/claude-40-repos.md
       - AI ინსტრუმენტები: ai/ai-tools.md
       - Security Audit Skill: ai/security-audit-skill.md
+      - 12 უსაფრთხოების რეპო: ai/security-repos.md
       - Claude Code-ის 15 ბრძანება: ai/claude-code-commands.md
   - პრომპტები:
       - ქართული ენის რედაქტორი: ai/prompts/georgian-editor.md

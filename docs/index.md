@@ -40,6 +40,14 @@ hide:
 
     [:octicons-arrow-right-24: გახსნა](ai/security-audit-skill.md)
 
+-   :material-shield-check-outline:{ .lg .middle } **12 უსაფრთხოების რეპო**
+
+    ---
+
+    Strix, Trivy, Semgrep, TruffleHog და სხვა: AI-ით დაწერილი კოდის შესამოწმებლად.
+
+    [:octicons-arrow-right-24: გახსნა](ai/security-repos.md)
+
 -   :material-console:{ .lg .middle } **Claude Code-ის 15 ბრძანება**
 
     ---
