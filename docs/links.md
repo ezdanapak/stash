@@ -40,6 +40,7 @@ tags:
 ## უსაფრთხოება / პაროლები
 
 - [12 რეპო AI-ით დაწერილი კოდის შესამოწმებლად](ai/security-repos.md) — Strix, Trivy, Nuclei, Semgrep, TruffleHog და სხვა, ერთ გვერდზე #უსაფრთხოება #github
+- [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) — Claude Code-ის 83 skill bug hunting-ისა და red-team სამუშაოსთვის, დაწვრილებით → [ai/security-repos.md](ai/security-repos.md#დამატებით-bug-bounty-სთვის) #claude #უსაფრთხოება #bugbounty
 - [Bitwarden](https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb) — ღია კოდის პაროლების მენეჯერი: ძლიერი პაროლების გენერაცია, დაშიფრული საცავი, სინქრონიზაცია ყველა მოწყობილობაზე, passkey-ები და 2FA; პირადი გამოყენებისთვის უფასოა ([bitwarden.com](https://bitwarden.com/)) #უსაფრთხოება #პაროლები #chrome
 
 ## Linux
